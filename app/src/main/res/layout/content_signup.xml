@@ -4,9 +4,10 @@
     android:layout_height="match_parent"
     android:layout_width="match_parent"
     android:orientation="vertical"
-    android:paddingTop="65dp"
-    android:paddingLeft="15dp"
-    android:paddingRight="15dp"
+    android:paddingTop="@dimen/sixtyfive_dp"
+    android:paddingLeft="@dimen/fifteen_dp"
+    android:paddingRight="@dimen/fifteen_dp"
+    android:paddingVertical="@dimen/thirty_dp"
     android:paddingVertical="@dimen/thirty_dp"
     >
     <EditText
